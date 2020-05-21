@@ -105,7 +105,7 @@ h2:after {  /*to get the line after heading 2*/
 /*------------------------------background image--------------------------*/
 
 header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.07),#000),url(images-css/hero.jpg);    
+    background-image: linear-gradient(rgba(0, 0, 0, 0.07),#000),url(hero.jpg);    
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -424,7 +424,7 @@ input[type=submit]:active {
 /*------------------------------------------------------------------------*/
 
 .section-testimonials {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)), url(images-css/back-customers-min.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)), url(back-customers-min.jpg);
     background-size: cover;
     color: #fff;
     background-attachment: fixed; 
