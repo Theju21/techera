@@ -649,6 +649,10 @@ footer p {
     animation-duration: 1s;   
 }
 
+.ion-ios-stopwatch-outline {
+    display: block;   
+}
+
 .js--wp-1 .animate__animated ,
 .js--wp-2 .animate__animated ,
 .js--wp-3 .animate__animated {
